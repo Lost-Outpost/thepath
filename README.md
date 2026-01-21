@@ -24,7 +24,7 @@
 
 # Introduction
 
-The Path is a lightweight modlist with the absolute minimum fixes, gameplay balance changes and new content that can be customized to your liking. It's intended to have decent longevity and not require many updates, especially those that could cause you to need to start over.
+The Path is a lightweight Enderal modlist with the absolute minimum fixes, gameplay balance changes and new content that can be customized to your liking. It's intended to have decent longevity and not require many updates, especially those that could cause you to need to start over.
 
 ## List Contents
 
