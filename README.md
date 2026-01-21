@@ -7,7 +7,6 @@
   - [List Contents](#list-contents)
   - [Minimum Specs](#minimum-specs)
   - [Community](#community)
-  - [Skyrim: Anniversary Edition](#skyrim-anniversary-edition)
 - [Installation](#installation-1)
   - [Pre-Install](#pre-install)
     - [Installing Microsoft Visual C++ Redistributable Package](#installing-microsoft-visual-c-redistributable-package)
@@ -25,7 +24,7 @@
 
 # Introduction
 
-Dragonborn is a minimalist modlist with the absolute bare minimum gameplay, engine and visual changes for every skyrim playthrough. Featuring mostly upscaled vanilla textures and lightly modded gameplay, this list is perfect for new players and those who often find themselves restarting their game when mods change.
+The Path is a minimalist modlist with the absolute bare minimum gameplay, engine and visual changes for every skyrim playthrough. Featuring mostly upscaled vanilla textures and lightly modded gameplay, this list is perfect for new players and those who often find themselves restarting their game when mods change.
 
 ## List Contents
 
@@ -36,11 +35,7 @@ Users have reported running the list fine with as low as a Ryzen 1300x and a GTX
 
 ## Community
 
-Support is offered in [The Lost Outpost](https://discord.gg/WF66mMu) server and in the [Issues](https://github.com/Lost-Outpost/dragonborn/issues) section of the Dragonborn GitHub. If you have any questions following the add-on's instructions or if you find a typo or any other mistake in the documentation, feel free to report in The Lost Outpost Discord server's support channel.
-
-## Skyrim: Anniversary Edition
-
-This list requires anniversary edition and all creation club content. Make sure your game is fully up to date in Steam. It will automatically be patched by Wabbajack to work out of the box, but requires the latest game files. You _must_ download all the creation club content before installing.
+Support is offered in [The Lost Outpost](https://discord.gg/WF66mMu) server and in the [Issues](https://github.com/Lost-Outpost/thepath/issues) section of the The Path GitHub. If you have any questions following the add-on's instructions or if you find a typo or any other mistake in the documentation, feel free to report in The Lost Outpost Discord server's support channel.
 
 # Installation
 
@@ -75,9 +70,9 @@ Grab the latest release of Wabbajack from [here](https://github.com/wabbajack-to
 
 The download and installation process can take a little while (an hour or more) depending on your system specs. Wabbajack will calculate the amount of threads it will use at the start of the installation. To have the highest amount of threads and thus the fastest speed, it is advised to have the working folder on an SSD.
 
-1. Create a folder for the List at the root of your drive (like the Wabbajack folder) called "Dragonborn"
+1. Create a folder for the List at the root of your drive (like the Wabbajack folder) called "The Path"
 2. Go back to your drive, and create a new folder, called "Wabbajack Downloads Folder". This specific folder can be on a different drive if you wish
-3. Download the latest release of `Dragonborn` from the Wabbajack Browse Modlists page
+3. Download the latest release of `The Path` from the Wabbajack Browse Modlists page
 4. Select the created folder in step 1 as your installation folder
 5. Select the created folder in step 2 as your downloads folder
 6. Click the Go/Begin button and wait for Wabbajack to finish
@@ -100,11 +95,11 @@ Updating is like installing. You only have to make sure that you select the same
 
 Open the installation folder and double click on the program called `ModOrganizer.exe`.
 
-Make sure the dropdown box on the right is set to `Dragonborn` and press the Run button.
+Make sure the dropdown box on the right is set to `The Path` and press the Run button.
 
 # Issues
 
-For issues, you can provide details in the [Dragonborn Github](https://github.com/Lost-Outpost/dragonborn/issues). Please provide as much info as you can (screenshots are great).
+For issues, you can provide details in the [The Path Github](https://github.com/Lost-Outpost/thepath/issues). Please provide as much info as you can (screenshots are great).
 
-Finally, free feel to hop on the Dragonborn Discord support channel to have discussions with our knowledgeable community members. Support is offered in [The Lost Outpost](https://discord.gg/WF66mMu).
+Finally, free feel to hop on the The Path Discord support channel to have discussions with our knowledgeable community members. Support is offered in [The Lost Outpost](https://discord.gg/WF66mMu).
 
