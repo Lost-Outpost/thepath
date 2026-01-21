@@ -28,7 +28,7 @@ The Path is a lightweight modlist with the absolute minimum fixes, gameplay bala
 
 ## List Contents
 
-You can browse the full list contents [here](https://loadorderlibrary.com/lists/dragonborn-a-minimalist-modlist) if you want to know exactly what you're getting.
+You can browse the full list contents [here](https://loadorderlibrary.com/lists/the-path) if you want to know exactly what you're getting.
 
 ## Minimum Specs
 Users have reported running the list fine with as low as a Ryzen 1300x and a GTX960. You may need to adjust settings with systems this low but it should run fine and still look great!
