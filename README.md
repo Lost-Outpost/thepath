@@ -12,8 +12,8 @@
     - [Installing Microsoft Visual C++ Redistributable Package](#installing-microsoft-visual-c-redistributable-package)
     - [Steam Library](#steam-library)
     - [Set the Game language to English](#set-the-game-language-to-english)
-    - [Clean Skyrim](#clean-skyrim)
-    - [Start Skyrim](#start-skyrim)
+    - [Clean Enderal](#clean-skyrim)
+    - [Start Enderal](#start-skyrim)
   - [Using Wabbajack](#using-wabbajack)
     - [Preparations](#preparations)
     - [Downloading and Installing](#downloading-and-installing)
@@ -24,7 +24,7 @@
 
 # Introduction
 
-The Path is a minimalist modlist with the absolute bare minimum gameplay, engine and visual changes for every skyrim playthrough. Featuring mostly upscaled vanilla textures and lightly modded gameplay, this list is perfect for new players and those who often find themselves restarting their game when mods change.
+The Path is a lightweight modlist with the absolute minimum fixes, gameplay balance changes and new content that can be customized to your liking. It's intended to have decent longevity and not require many updates, especially those that could cause you to need to start over.
 
 ## List Contents
 
@@ -49,14 +49,14 @@ These steps are only needed if you install the Modlist for the first time.
 
 I doubt you need to do this since you likely already have this installed. This package is required for MO2 and you can download it from [Microsoft](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads). Download the x64 version under "Visual Studio 2015, 2017 and 2019". [Direct link](https://aka.ms/vs/16/release/vc_redist.x64.exe) if you can't find it.
 
-### Clean Skyrim
+### Clean Enderal
 
-I highly recommend uninstalling the game through Steam, deleting the game folder, and reinstalling it. You should also clean up the `Skyrim Special Edition` folder in `Documents/My Games/` by deleting the contents in it.
+I highly recommend uninstalling the game through Steam, deleting the game folder, and reinstalling it. You should also clean up the `Enderal Special Edition` folder in `Documents/My Games/` by deleting the contents in it.
 
-[THIS](https://imgur.com/a/1dySo8q) is approximately what a clean Skyrim install should look like after shredding or cleaning it manually.
+[THIS](https://imgur.com/a/1dySo8q) is approximately what a clean Enderal install should look like after shredding or cleaning it manually.
 
-### Start Skyrim
-Start the game and exit once you're in the main menu. This will ensure any settings files needed by Wabbajack are created in the Skyrim directory.
+### Start Enderal
+Start the game and exit once you're in the main menu. This will ensure any settings files needed by Wabbajack are created in the Enderal directory.
 
 ## Using Wabbajack
 
