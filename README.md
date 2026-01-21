@@ -1,4 +1,4 @@
-<img src="https://staticdelivery.nexusmods.com/mods/3685/images/635/635-1768972617-1504966861.png">
+<img src="https://staticdelivery.nexusmods.com/mods/3685/images/635/635-1769034548-620768095.png">
 
 # Installation
 
