@@ -1,4 +1,4 @@
-<a href="https://www.youtube.com/watch?v=70DZ5UV1Bdo"><img src="https://staticdelivery.nexusmods.com/mods/1704/images/169915/169915-1768587221-269438515.png" target="_blank"></a>
+<img src="https://staticdelivery.nexusmods.com/mods/3685/images/635/635-1768972617-1504966861.png">
 
 # Installation
 
