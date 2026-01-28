@@ -35,7 +35,7 @@ Users have reported running the list fine with as low as a Ryzen 1300x and a GTX
 
 ## Community
 
-Support is offered in [The Lost Outpost](https://discord.gg/WF66mMu) server and in the [Issues](https://github.com/Lost-Outpost/thepath/issues) section of the The Path GitHub. If you have any questions following the add-on's instructions or if you find a typo or any other mistake in the documentation, feel free to report in The Lost Outpost Discord server's support channel.
+Support is offered in [The Lost Outpost](https://discord.gg/WF66mMu) Discord server in the appropriate channel. If you have any questions following the instructions or if you find a typo or any other mistake in the documentation, feel free to report in the server support channel.
 
 # Installation
 
